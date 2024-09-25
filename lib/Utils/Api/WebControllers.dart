@@ -1,0 +1,15 @@
+enum WebControllers {
+  auth,
+  common,
+  wallet,
+  blog,
+  exam,
+  pages,
+  commin,
+  course,
+  support,
+  lottery,
+  faq,
+  forum,
+  data,
+}
